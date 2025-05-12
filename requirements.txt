@@ -1,0 +1,25 @@
+# Core Web Framework
+fastapi>=0.68.0
+uvicorn>=0.15.0
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+
+# Natural Language Processing
+nltk
+spacy
+textblob
+
+# Machine Learning
+gensim
+tensorflow
+torch
+transformers
+
+# Deployment and Utility
+python-multipart
+pydantic
+gunicorn
+python-dotenv
